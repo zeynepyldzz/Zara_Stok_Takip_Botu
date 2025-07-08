@@ -1,7 +1,8 @@
 # Zara Stok Takip Botu
 
 Bu Python betiği, Selenium kullanarak Zara web sitesindeki belirli bir ürünün stok durumunu kontrol eder ve hedef beden stokta olduğunda Telegram üzerinden bildirim gönderir.
-
+![Uploading Ekran Görüntüsü (515).png…]()
+![hey](https://github.com/user-attachments/assets/6ebe9966-0a43-4072-8324-2391d0381456)
 ---
 
 ## Özellikler
@@ -50,4 +51,3 @@ Botu çalıştırın:
 
 python main.py
 
-![hey](https://github.com/user-attachments/assets/6ebe9966-0a43-4072-8324-2391d0381456)
