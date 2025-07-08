@@ -41,6 +41,9 @@ Proje klasöründe .env dosyası oluşturun ve içine aşağıdaki bilgileri yaz
 
 BOT_TOKEN=TelegramBotTokenBuraya
 CHAT_ID=TelegramChatIDBuraya
+
+Telegram botunuzun çalışabilmesi için, hedef Telegram sohbetinde önceden /start komutunu göndermiş olmanız gerekir. Bu, botunuzun sizinle mesajlaşabilmesi için zorunludur.
+
 main.py dosyasındaki url ve hedef_beden değişkenlerini kontrol etmek istediğiniz ürün ve bedenle güncelleyin.
 
 Botu çalıştırın:
