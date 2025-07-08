@@ -36,7 +36,7 @@ Microsoft Edge WebDriver'ı bilgisayarınıza indirin ve PATH’e ekleyin:
 
 Microsoft Edge WebDriver İndir
 
-Kullanım
+## Kullanım
 Proje klasöründe .env dosyası oluşturun ve içine aşağıdaki bilgileri yazın:
 
 BOT_TOKEN=TelegramBotTokenBuraya
@@ -49,3 +49,5 @@ main.py dosyasındaki url ve hedef_beden değişkenlerini kontrol etmek istediğ
 Botu çalıştırın:
 
 python main.py
+
+![hey](https://github.com/user-attachments/assets/6ebe9966-0a43-4072-8324-2391d0381456)
